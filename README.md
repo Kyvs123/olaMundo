@@ -1,2 +1,3 @@
-# olaMundo
- Primeiro repositorio curso em video
+Olá Mundo!
+
+Primeira aula de criação de repositório com GitHub
